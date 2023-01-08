@@ -16,7 +16,7 @@
 
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=html,firebase,latex,mongodb,astro,bash,php,md,py,rust&perline=5" />
+    <img src="https://skillicons.dev/icons?i=html,firebase,latex,mongodb,astro,bash,php,md,py,rust&perline=10" />
   </a>
 </p>
 <p align="center">
@@ -26,7 +26,7 @@
 <h2 align="center">Used tools</h2>
 
 <p align="center">
-    <img src="https://skillicons.dev/icons?i=vscode,linux,vercel,git,github,figma,docker,raspberrypi,vim&perline=3" />
+    <img src="https://skillicons.dev/icons?i=vscode,linux,vercel,git,github,figma,docker,raspberrypi,vim&perline=9" />
 </p>
 
 <h2 align="center">Some GitHub stats</h2>
