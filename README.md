@@ -34,6 +34,6 @@
 <h2 align="center">Some GitHub stats</h2>
 <p align="center">
     <a href="https://git.io/streak-stats">
-        <img src="https://github-readme-streak-stats.herokuapp.com?user=Oussamaosman02&theme=onedark&hide_border=true&border_radius=5&locale=es&fire=DD2727" alt="oussamaosman02 streak" />
+        <img src="https://streak-stats.demolab.com?user=Oussamaosman02&theme=algolia&hide_border=true&border_radius=5&locale=es&date_format=j%2Fn%5B%2FY%5D&card_width=500&type=png" alt="Oussama Osman GitHub Streak" />
     </a>
 </p>
