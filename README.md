@@ -32,8 +32,5 @@
 </p>
 
 <h2 align="center">Some GitHub stats</h2>
-<p align="center">
-    [<a href="https://git.io/streak-stats">
-        <img src="https://streak-stats.demolab.com?user=Oussamaosman02&theme=algolia&hide_border=true&border_radius=5&locale=es&date_format=j%2Fn%5B%2FY%5D&card_width=500" alt="Oussama Osman GitHub Streak" />
-    </a>](https://streak-stats.demolab.com/?user=Oussamaosman02&theme=algolia&hide_border=true&border_radius=5&locale=es&date_format=j%2Fn%5B%2FY%5D&card_width=500)
+![Oussama Streak](https://streak-stats.demolab.com/?user=Oussamaosman02&theme=algolia&hide_border=true&border_radius=5&locale=es&date_format=j%2Fn%5B%2FY%5D&card_width=500)
 </p>
